@@ -1,3 +1,3 @@
-![xxx](./picture.jpg)
+![xxx](picture.jpg)
 ## what 
 #### litte what
